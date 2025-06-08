@@ -1,5 +1,9 @@
 <h1>Hi, I am Atharva!</h1>
-<p></p>
+<p>I'm an undergraduate Computer Science student at VES College of Arts, Science, and Commerce who’s been a techgeek since day one. I'm driven by curiosity and thrive on exploring how technology shapes the world around us. From software development to emerging trends, I’m always eager to learn, build, and innovate.
+
+Tech Enthusiast by heart, I dive deep into coding, problem-solving, and creating impactful digital experiences. Whether it's web dev, machine learning, or cloud computing, I’m always up for the challenge.
+Let’s connect, collaborate, and build something amazing. 🌟
+</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
