@@ -2,9 +2,9 @@
 <p>I'm an undergraduate Computer Science student at VES College of Arts, Science, and Commerce who’s been a techgeek since day one. I'm driven by curiosity and thrive on exploring how technology shapes the world around us. From software development to emerging trends, I’m always eager to learn, build, and innovate.
 
 Tech Enthusiast by heart, I dive deep into coding, problem-solving, and creating impactful digital experiences. Whether it's web dev, machine learning, or cloud computing, I’m always up for the challenge.
-Let’s connect, collaborate, and build something amazing. 🌟
+Let’s connect, collaborate, and build something amazing!
 </p>
-<h2>🚀 Languages and Tools I Use</h2>
+<h2>Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
@@ -21,7 +21,7 @@ Let’s connect, collaborate, and build something amazing. 🌟
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
 <a target="_blank" href="https://download.blender.org/branding/community/blender_community_badge_white.svg" style="display: inline-block;"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
+<h2>Where to find me?</h2>
 <p><a target="_blank" href="https://www.instagram.com/_.atharva08._" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Atharvakumkar&show_icons=true&locale=en" alt="Atharvakumkar" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Atharvakumkar&" alt="Atharvakumkar" /></p>
