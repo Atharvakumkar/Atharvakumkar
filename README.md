@@ -1,4 +1,4 @@
-Hi, I'm Atharva!
+<h1>Hi, I'm Atharva!</h1>
 I'm an undergraduate Computer Science student at VES College of Arts, Science, and Commerce who’s been a techgeek since day one. I'm driven by curiosity and thrive on exploring how technology shapes the world around us. From software development to emerging trends, I’m always eager to learn, build, and innovate.<br><br>Tech Enthusiast by heart, I dive deep into coding, problem-solving, and creating impactful digital experiences. Whether it's web dev, machine learning, or cloud computing, I’m always up for the challenge. Let’s connect, collaborate, and build something amazing!
 
 
