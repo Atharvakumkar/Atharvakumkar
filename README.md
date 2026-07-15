@@ -1,4 +1,4 @@
-# Greetings!
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+Atharva!)](https://git.io/typing-svg)
 I'm a Computer Science undergraduate passionate about Cloud Computing, DevOps, Infrastructure Engineering, and Backend Development. I enjoy building scalable systems and exploring how modern infrastructure, automation, and cloud technologies come together to solve real-world engineering challenges.
 
 My work focuses on cloud-native applications, containerized environments, CI/CD pipelines, serverless architectures, and distributed systems. Through hands-on projects, I've worked with technologies including Docker, Kubernetes, AWS, Linux, Python, Jenkins, Elasticsearch, Apache Kafka, and modern backend frameworks to build reliable, secure, and production-oriented solutions.
