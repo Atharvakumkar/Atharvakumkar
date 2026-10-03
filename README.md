@@ -1,9 +1,12 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1000&color=FFFFFF&repeat=false&width=435&height=60&lines=Hi%2C+I+am+Atharva!)](https://git.io/typing-svg)
-I'm a Computer Science undergraduate passionate about Cloud Computing, DevOps, Infrastructure Engineering, and Backend Development. I enjoy building scalable systems and exploring how modern infrastructure, automation, and cloud technologies come together to solve real-world engineering challenges.
+I’m a Computer Science undergraduate passionate about **Cloud Computing, DevOps, Infrastructure Engineering, and Backend Development**, with a strong focus on building reliable, scalable, and production-oriented systems.
 
-My work focuses on cloud-native applications, containerized environments, CI/CD pipelines, serverless architectures, and distributed systems. Through hands-on projects, I've worked with technologies including Docker, Kubernetes, AWS, Linux, Python, Jenkins, Elasticsearch, Apache Kafka, and modern backend frameworks to build reliable, secure, and production-oriented solutions.
+I enjoy working at the intersection of **software and infrastructure** by designing cloud-native applications, automating deployments, containerizing workloads, and engineering systems that are secure, observable, and resilient. My hands-on experience spans **AWS, Linux, Docker, Kubernetes, Jenkins, Python, Elasticsearch, Apache Kafka, and modern backend technologies**, along with CI/CD, serverless architectures, and distributed systems.
 
-I'm constantly learning, experimenting, and expanding my skills in platform engineering, cloud security, observability, and infrastructure automation. I believe in learning by building, contributing to practical projects, and continuously improving as an engineer while exploring new technologies and best practices.
+Through academic, personal, and engineering projects, I’ve focused on solving real-world problems through **automation, infrastructure as code, cloud-native architectures, DevSecOps practices, and backend engineering**. I’m particularly interested in understanding how systems work at scale and how thoughtful engineering can improve reliability, security, and developer productivity.
+
+Currently, I’m continuously expanding my expertise in **Platform Engineering, Cloud Security, Observability, Infrastructure Automation, and Distributed Systems**. I believe the best way to learn engineering is by building, breaking, debugging, and improving real systems!
+
 
 
 # My Expertise:
