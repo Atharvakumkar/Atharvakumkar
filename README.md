@@ -9,7 +9,7 @@ I'm currently deepening my knowledge of Infrastructure as Code, Cloud Security, 
 
 I believe the best way to learn engineering is to build real systems, understand how they fail, and improve them.
 
-## Technical Skills
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1000&color=FFFFFF&repeat=false&width=435&height=60&lines=Hi%2C+My+Expertise+:)](https://git.io/typing-svg)
 
 ### Cloud & Infrastructure
 <p>
