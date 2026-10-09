@@ -29,4 +29,4 @@ I believe the best way to learn engineering is to build real systems, understand
 ### Databases & Development Tools
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,elasticsearch,postman" />
-</p>badge&logo=postman&logoColor=white)
+</p>
